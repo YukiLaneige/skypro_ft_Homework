@@ -20,6 +20,7 @@ body {
 .location>a {
 	text-decoration: none;
 	color: white;
+	display: block;
 }
 
 .location:hover {
@@ -81,7 +82,6 @@ body {
 		text-align: center;
 		color: white;
 		font-size: 1.5em;
-		display: block;
 		background-color: rgba(175,133,255,1);
 		padding: 10px;
 		margin-left: 7%;
@@ -149,7 +149,6 @@ body {
 		text-align: center;
 		color: white;
 		font-size: 0.8em;
-		display: block;
 		background-color: rgba(175,133,255,1);
 		padding: 10px;
 		margin-left: 7%;
@@ -217,7 +216,6 @@ body {
 		text-align: center;
 		color: white;
 		font-size: 1.5em;
-		display: block;
 		background-color: rgba(175,133,255,1);
 		padding: 10px;
 		margin-left: 7%;
@@ -283,7 +281,6 @@ body {
 		text-align: center;
 		color: white;
 		font-size: 1.8em;
-		display: block;
 		background-color: rgba(175,133,255,1);
 		padding: 10px;
 		margin-left: 7%;
